@@ -112,6 +112,8 @@ This is not only for `priority:` - labels such as, but not limited to, `scope:`,
 
 ## See also
 
+https://github.com/sarpik/github-filter-by-label-example
+
 https://help.github.com/en/articles/searching-issues-and-pull-requests#search-by-label
 
 https://help.github.com/en/articles/filtering-issues-and-pull-requests-by-labels
