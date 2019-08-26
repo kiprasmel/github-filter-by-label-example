@@ -118,4 +118,6 @@ https://help.github.com/en/articles/searching-issues-and-pull-requests#search-by
 
 https://help.github.com/en/articles/filtering-issues-and-pull-requests-by-labels
 
+https://help.github.com/en/articles/keyboard-shortcuts#issue-and-pull-request-lists
+
 https://github.com/search/advanced
